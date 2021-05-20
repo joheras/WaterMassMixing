@@ -8,4 +8,5 @@ The description of each of the files is the following:
 * Water masses-IndependentLocations.ipynb: Jupyter notebook with all the instructions to run ML models on water samples. Used to train and evaluate different models in order to solve the water mixing problem.
 * test.csv: Test set used to validate the model in the paper.
 * train.csv: Train set used to validate the model in the paper.
-* 
+* Folder Pure Water Masses:
+* * Contains
