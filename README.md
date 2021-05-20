@@ -6,3 +6,6 @@ The description of each of the files is the following:
 * README.md: This file.
 * AtlanticOceanDatabase_clean.csv: Contains the data of the water samples used in (Romera-Castillo et al., 2019) together with the results of the OMP analysis in that paper.
 * Water masses-IndependentLocations.ipynb: Jupyter notebook with all the instructions to run ML models on water samples. Used to train and evaluate different models in order to solve the water mixing problem.
+* test.csv: Test set used to validate the model in the paper.
+* train.csv: Train set used to validate the model in the paper.
+* 
